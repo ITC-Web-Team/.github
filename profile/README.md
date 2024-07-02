@@ -4,7 +4,7 @@ We are a team of IIT Bombay developers who are passionate about creating beautif
 
 ## Team Members
 
-### 2024
+### Current Team (2024-25)
 
 - **[Deepak Silaych](https://github.com/deepaksilaych)**: Manager
 - **[Bhagya Agrawal](https://www.linkedin.com/in/bhagya-agrawal-368584274/)**: Convener
@@ -12,7 +12,7 @@ We are a team of IIT Bombay developers who are passionate about creating beautif
 - **[Riya Agrawal](https://github.com/seduloushaze)**: Convener
 - **[Vaishnavi Rajput](https://github.com/seduloushaze)**: Convener
 
-### 2023
+### 2023-24
 
 - **Prakhar Agarwal**: Manager
 - **Chirag Bansal**: Convener
