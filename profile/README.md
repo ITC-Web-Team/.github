@@ -8,7 +8,7 @@ We are a team of IIT Bombay developers who are passionate about creating beautif
 
 - **[Deepak Silaych](https://github.com/deepaksilaych)**: Manager
 - **[Bhagya Agrawal](https://www.linkedin.com/in/bhagya-agrawal-368584274/)**: Convener
-- **[Hasaan Naurez]([https://www.linkedin.com/in/bhagya-agrawal-368584274/](https://github.com/Hasaannaurez))**: Convener
+- **[Hasaan Naurez](https://github.com/Hasaannaurez)**: Convener
 - **[Riya Agrawal](https://github.com/seduloushaze)**: Convener
 - **[Vaishnavi Rajput](https://github.com/seduloushaze)**: Convener
 
