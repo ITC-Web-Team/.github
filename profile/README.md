@@ -7,7 +7,11 @@ We are a team of IIT Bombay developers who are passionate about creating beautif
 ## Team Members
 
 ### Current Team (2024-25)
+- **[Riya Agrawal](https://github.com/RiyaAgrawalRocks)**: Manager
+- **[Lakshaditya](https://github.com/Thunder25Beast)**: Manager
 
+
+### 2024-25
 - **[Deepak Silaych](https://github.com/deepaksilaych)**: Manager
 - **[Bhagya Agrawal](https://www.linkedin.com/in/bhagya-agrawal-368584274/)**: Convener
 - **[Hasaan Naurez](https://github.com/Hasaannaurez)**: Convener
