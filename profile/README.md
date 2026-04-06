@@ -5,11 +5,18 @@ We are a team of IIT Bombay developers who are passionate about creating beautif
 [web.tech-iitb.org](https://web.tech-iitb.org)
 
 ## Team Members
+### Current Team (2026-27)
+- **[Utkarsh Tanwar](https://github.com/icodeforlife24)**: Manager
 
-### Current Team (2024-25)
+  
+### 2025-26
 - **[Riya Agrawal](https://github.com/RiyaAgrawalRocks)**: Manager
 - **[Lakshaditya](https://github.com/Thunder25Beast)**: Manager
-
+- **[Anurag Desai](https://github.com/Anurag6905)**: Convener
+- **[Harshitha Ramagiri](https://github.com/Harshitha-282007)**: Convener
+- **[Tezas](https://github.com/odinOnGit)**: Convener
+- **[Nitansh](https://github.com/real-Ni)**: Convener
+- **[Snigdha Sahu](https://github.com/snigdha1312)**: Convener
 
 ### 2024-25
 - **[Deepak Silaych](https://github.com/deepaksilaych)**: Manager
