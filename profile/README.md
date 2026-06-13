@@ -7,6 +7,11 @@ We are a team of IIT Bombay developers who are passionate about creating beautif
 ## Team Members
 ### Current Team (2026-27)
 - **[Utkarsh Tanwar](https://github.com/icodeforlife24)**: Manager
+- **[Dimple Mehra ](https://github.com/tinaa143)**: Convener
+- **[V.Nivin](https://github.com/lubero07)**: Convener
+- **[Lokesh N S](https://github.com/Lokesh5631)**: Convener
+- **[Ayush Thakur](https://github.com/Ayush-IITB23)**: Convener
+- **[Mitali arya](https://github.com/mitaliarya421-design)**: Convener
 
   
 ### 2025-26
